@@ -7,14 +7,14 @@ I'm currently working as Cloud Engineer, with a strong focus on monitoring criti
 
 Other non-thech-related-interests are:
 
-    Music: creating and having great fun with people thorugh music its always welcomed.
-    Deutsch: or in general language learning. Schick mir eine E-Mail auf Deutsch, damit wir uns kurz unterhalten können, deshalb übe ich
+- Music: creating and having great fun with people thorugh music its always welcomed.
+- Deutsch: or in general language learning. Schick mir eine E-Mail auf Deutsch, damit wir uns kurz unterhalten können, deshalb übe ich
 
 
 I tend not to be in social media, cause in the end I dont feel it appealing at all. But here are some other places you can find my work on the internet:
 
-    blog: https://guilleolmeda.eu
+- Blog: https://guilleolmeda.eu
 
 Reach me at:
 
-    email: contact@guilleolmeda.eu
+- Email: contact@guilleolmeda.eu
