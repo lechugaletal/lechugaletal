@@ -1,16 +1,20 @@
-## Hi there 👋
+hello!
 
-<!--
-**lechugaletal/lechugaletal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of the projects around my Github are Private, they basically help me in the process of deploying and maintaning my site and on-prem infra for other projects.
+Anyway, if you find something around that helps you, feel free to use it and imporve/expand it of course (don't forget to tell me about the bits and nuances after).
 
-Here are some ideas to get you started:
+I'm currently working as Cloud Engineer, with a strong focus on monitoring critical infrastructure, so any topic related is welcome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other non-thech-related-interests are:
+
+    Music: creating and having great fun with people thorugh music its always welcomed.
+    Deutsch: or in general language learning. Schick mir eine E-Mail auf Deutsch, damit wir uns kurz unterhalten können, deshalb übe ich
+
+
+I tend not to be in social media, cause in the end I dont feel it appealing at all. But here are some other places you can find my work on the internet:
+
+    blog: https://guilleolmeda.eu
+
+Reach me at:
+
+    email: contact@guilleolmeda.eu
